@@ -1,6 +1,5 @@
-package com.example.demo.order;
+package com.example.demo.discount;
 
-import com.example.demo.discount.DiscountPolicy;
 import com.example.demo.member.Grade;
 import com.example.demo.member.Member;
 
