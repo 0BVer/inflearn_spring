@@ -1,5 +1,6 @@
 package com.example.demo.order;
 
+import com.example.demo.discount.RateDiscountPolicy;
 import com.example.demo.member.Grade;
 import com.example.demo.member.Member;
 import org.junit.jupiter.api.DisplayName;
