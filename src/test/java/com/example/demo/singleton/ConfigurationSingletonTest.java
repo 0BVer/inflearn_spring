@@ -4,7 +4,6 @@ import com.example.demo.AppConfig;
 import com.example.demo.member.MemberRepository;
 import com.example.demo.member.MemberServiceImpl;
 import com.example.demo.order.OrderServiceImpl;
-import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
